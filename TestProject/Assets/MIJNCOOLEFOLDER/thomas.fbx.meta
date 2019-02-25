@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 744a453c81ad9554f969f7febcf1990a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: Conrod
+    100004: Engine_ThomasFace
+    100006: Engine_ThomasFace_PIVOT
+    100008: L_Eye
+    100010: L_Eye_PIVOT
+    100012: NewThomasBody
+    100014: NewThomasBody_PIVOT
+    100016: R_Eye
+    100018: R_Eye_PIVOT
+    100020: //RootNode
+    100022: Thomas_Wheel_01
+    100024: Thomas_Wheel_02
+    100026: Thomas_Wheel_03
+    400000: CINEMA_4D_Editor
+    400002: Conrod
+    400004: Engine_ThomasFace
+    400006: Engine_ThomasFace_PIVOT
+    400008: L_Eye
+    400010: L_Eye_PIVOT
+    400012: NewThomasBody
+    400014: NewThomasBody_PIVOT
+    400016: R_Eye
+    400018: R_Eye_PIVOT
+    400020: //RootNode
+    400022: Thomas_Wheel_01
+    400024: Thomas_Wheel_02
+    400026: Thomas_Wheel_03
+    2000000: CINEMA_4D_Editor
+    2100000: Page_02
+    2100002: Eyes
+    2100004: Page_01
+    2100006: Page_03
+    2300000: Conrod
+    2300002: Engine_ThomasFace_PIVOT
+    2300004: L_Eye_PIVOT
+    2300006: NewThomasBody_PIVOT
+    2300008: R_Eye_PIVOT
+    2300010: Thomas_Wheel_01
+    2300012: Thomas_Wheel_02
+    2300014: Thomas_Wheel_03
+    3300000: Conrod
+    3300002: Engine_ThomasFace_PIVOT
+    3300004: L_Eye_PIVOT
+    3300006: NewThomasBody_PIVOT
+    3300008: R_Eye_PIVOT
+    3300010: Thomas_Wheel_01
+    3300012: Thomas_Wheel_02
+    3300014: Thomas_Wheel_03
+    4300000: Thomas_Wheel_01
+    4300002: L_Eye_PIVOT
+    4300004: Engine_ThomasFace_PIVOT
+    4300006: R_Eye_PIVOT
+    4300008: Thomas_Wheel_03
+    4300010: Thomas_Wheel_02
+    4300012: Conrod
+    4300014: NewThomasBody_PIVOT
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
